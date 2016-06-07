@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Goal"
+  },
+  {
+    "id": 2,
+    "name": "Change player"
+  },
+  {
+    "id": 3,
+    "name": "Change to player"
+  }
+]

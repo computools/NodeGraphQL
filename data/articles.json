@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "createdAt": "Fri Jun 03 2016 19:30:14 GMT+0300 (RTZ 2 (зима))",
+    "authorId": 4,
+    "title": "Article (publishing)",
+    "text": "A news article discusses current or recent news of either general interest (i.e. daily newspapers) or of a specific topic (i.e. political or trade news magazines, club newsletters, or technology news websites).A news article can include accounts of eyewitnesses to the happening event. It can contain photographs, accounts, statistics, graphs, recollections, interviews, polls, debates on the topic, etc. Headlines can be used to focus the reader’s attention on a particular (or main) part of the article. The writer can also give facts and detailed information following answers to general questions like who, what, when, where, why and how. Quoted references can also be helpful. References to people can also be made through the written accounts of interviews and debates confirming the factuality of the writer’s information and the reliability of his source. The writer can use redirection to ensure that the reader keeps reading the article and to draw her attention to other articles. For example, phrases like \"Continued on page 3” redirect the reader to a page where the article is continued. While a good conclusion is an important ingredient for newspaper articles, the immediacy of a deadline environment means that copy editing often takes the form of deleting everything past an arbitrary point in the story corresponding to the dictates of available space on a page. Therefore, newspaper reporters are trained to write in inverted pyramid style, with all the most important information in the first paragraph or two. If the less vital details are pushed towards the end of the story, then the potentially destructive impact of draconian copy editing will be minimized."
+  },
+  {
+    "id": 2,
+    "createdAt": "Fri Jun 02 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "authorId": 3,
+    "title": "Article (grammar)",
+    "text": "In languages that employ articles, every common noun, with some exceptions, is expressed with a certain definiteness (e.g., definite or indefinite), just as many languages express every noun with a certain grammatical number (e.g., singular or plural). Every noun must be accompanied by the article, if any, corresponding to its definiteness, and the lack of an article (considered a zero article) itself specifies a certain definiteness. This is in contrast to other adjectives and determiners, which are typically optional. This obligatory nature of articles makes them among the most common words in many languages—in English, for example, the most frequent word is the."
+  },
+  {
+    "id": 3,
+    "createdAt": "Fri Jun 01 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "authorId": 2,
+    "title": "Treaties of the European Union",
+    "text": "The Treaties of the European Union are a set of international treaties between the European Union (EU) member states which sets out the EU's constitutional basis. They establish the various EU institutions together with their remit, procedures and objectives. The EU can only act within the competences granted to it through these treaties and amendment to the treaties requires the agreement and ratification (according to their national procedures) of every single signatory."
+  },
+  {
+    "id": 4,
+    "createdAt": "Fri Jun 01 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "authorId": 1,
+    "title": "Articles of Confederation",
+    "text": "Even unratified, the Articles provided a system for the Continental Congress to direct the American Revolutionary War, conduct diplomacy with Europe and deal with territorial issues and Native American relations. Nevertheless, the weakness of the government created by the Articles became a matter of concern for key nationalists"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "number": "1",
+    "name": "John Smith",
+    "teamId": 6
+  },
+  {
+    "id": 2,
+    "number": "2",
+    "name": "Erlich Batman",
+    "teamId": 6
+  },
+  {
+    "id": 3,
+    "number": "3",
+    "name": "Tier Anry",
+    "teamId": 4
+  },
+  {
+    "id": 4,
+    "number": "4",
+    "name": "John Buffon",
+    "teamId": 4
+  },
+  {
+    "id": 5,
+    "number": "5",
+    "name": "Zlatan Ibragimovich",
+    "teamId": 5
+  },
+  {
+    "id": 6,
+    "number": "6",
+    "name": "Ronaldo",
+    "teamId": 5
+  },
+  {
+    "id": 7,
+    "number": "7",
+    "name": "Rondo",
+    "teamId": 3
+  },
+  {
+    "id": 8,
+    "number": "8",
+    "name": "John Smith",
+    "teamId": 3
+  },
+  {
+    "id": 9,
+    "number": "9",
+    "name": "Neimar",
+    "teamId": 1
+  },
+  {
+    "id": 10,
+    "number": "10",
+    "name": "Kaka",
+    "teamId": 1
+  },
+  {
+    "id": 11,
+    "number": "11",
+    "name": "Uein Runy",
+    "teamId": 2
+  },
+  {
+    "id": 12,
+    "number": "12",
+    "name": "Samauel Etto",
+    "teamId": 2
+  },
+  {
+    "id": 13,
+    "number": "13",
+    "name": "Lionel Messy",
+    "teamId": 1
+  },
+  {
+    "id": 14,
+    "number": "14",
+    "name": "Kristiano Ronaldy",
+    "teamId": 2
+  },
+  {
+    "id": 15,
+    "number": "15",
+    "name": "Sergo Ramos",
+    "teamId": 3
+  },
+  {
+    "id": 16,
+    "number": "16",
+    "name": "Havy",
+    "teamId": 4
+  },
+  {
+    "id": 17,
+    "number": "17",
+    "name": "Luis Alberto Syares",
+    "teamId": 5
+  },
+  {
+    "id": 18,
+    "number": "18",
+    "name": "Vein Runy",
+    "teamId": 6
+  },
+  {
+    "id": 19,
+    "number": "19",
+    "name": "Eden Azar",
+    "teamId": 1
+  },
+  {
+    "id": 20,
+    "number": "20",
+    "name": "Diego Maradona",
+    "teamId": 2
+  },
+  {
+    "id": 21,
+    "number": "21",
+    "name": "Pele",
+    "teamId": 3
+  },
+  {
+    "id": 22,
+    "number": "22",
+    "name": "Iker Kasilias",
+    "teamId": 4
+  },
+  {
+    "id": 23,
+    "number": "23",
+    "name": "Marko Roise",
+    "teamId": 5
+  },
+  {
+    "id": 24,
+    "number": "24",
+    "name": "Dmitry Vladimirivich Kombarov",
+    "teamId": 6
+  }
+]

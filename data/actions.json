@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "matchId": 1,
+    "actionTypeId": 1,
+    "time": "0541",
+    "playerId": 10
+  },
+  {
+    "id": 2,
+    "matchId": 1,
+    "actionTypeId": 2,
+    "time": "0550",
+    "playerId": 10
+  },
+  {
+    "id": 3,
+    "matchId": 1,
+    "actionTypeId": 3,
+    "time": "0551",
+    "playerId": 13
+  },
+
+  {
+    "id": 4,
+    "matchId": 2,
+    "actionTypeId": 1,
+    "time": "1551",
+    "playerId": 7
+  },
+
+  {
+    "id": 5,
+    "matchId": 3,
+    "actionTypeId": 1,
+    "time": "4106",
+    "playerId": 13
+  },
+  {
+    "id": 6,
+    "matchId": 3,
+    "actionTypeId": 1,
+    "time": "4941",
+    "playerId": 16
+  },
+
+  {
+    "id": 7,
+    "matchId": 4,
+    "actionTypeId": 1,
+    "time": "5243",
+    "playerId": 14
+  },
+  {
+    "id": 8,
+    "matchId": 4,
+    "actionTypeId": 2,
+    "time": "7602",
+    "playerId": 16
+  },
+  {
+    "id": 9,
+    "matchId": 4,
+    "actionTypeId": 3,
+    "time": "7603",
+    "playerId": 22
+  },
+
+  {
+    "id": 10,
+    "matchId": 5,
+    "actionTypeId": 1,
+    "time": "1531",
+    "playerId": 24
+  },
+  {
+    "id": 11,
+    "matchId": 5,
+    "actionTypeId": 1,
+    "time": "6725",
+    "playerId": 18
+  },
+
+  {
+    "id": 12,
+    "matchId": 6,
+    "actionTypeId": 1,
+    "time": "5748",
+    "playerId": 23
+  },
+
+  {
+    "id": 13,
+    "matchId": 7,
+    "actionTypeId": 1,
+    "time": "8729",
+    "playerId": 19
+  },
+
+  {
+    "id": 14,
+    "matchId": 8,
+    "actionTypeId": 1,
+    "time": "1524",
+    "playerId": 20
+  },
+  {
+    "id": 15,
+    "matchId": 8,
+    "actionTypeId": 1,
+    "time": "2143",
+    "playerId": 24
+  },
+  {
+    "id": 16,
+    "matchId": 8,
+    "actionTypeId": 1,
+    "time": "2843",
+    "playerId": 14
+  },
+  {
+    "id": 17,
+    "matchId": 8,
+    "actionTypeId": 1,
+    "time": "7843",
+    "playerId": 11
+  },
+
+  {
+    "id": 18,
+    "matchId": 9,
+    "actionTypeId": 1,
+    "time": "4243",
+    "playerId": 9
+  },
+  {
+    "id": 19,
+    "matchId": 9,
+    "actionTypeId": 1,
+    "time": "8745",
+    "playerId": 13
+  },
+
+  {
+    "id": 20,
+    "matchId": 10,
+    "actionTypeId": 1,
+    "time": "4501",
+    "playerId": 8
+  },
+
+  {
+    "id": 21,
+    "matchId": 11,
+    "actionTypeId": 1,
+    "time": "2501",
+    "playerId": 5
+  },
+
+  {
+    "id": 22,
+    "matchId": 12,
+    "actionTypeId": 1,
+    "time": "0341",
+    "playerId": 7
+  },
+  {
+    "id": 23,
+    "matchId": 12,
+    "actionTypeId": 1,
+    "time": "2941",
+    "playerId": 7
+  },
+  {
+    "id": 24,
+    "matchId": 12,
+    "actionTypeId": 1,
+    "time": "3525",
+    "playerId": 10
+  },
+  {
+    "id": 25,
+    "matchId": 12,
+    "actionTypeId": 2,
+    "time": "4123",
+    "playerId": 10
+  },
+  {
+    "id": 26,
+    "matchId": 12,
+    "actionTypeId": 3,
+    "time": "4124",
+    "playerId": 9
+  }
+]

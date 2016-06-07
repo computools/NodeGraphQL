@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "date": "070616",
+    "time": "11:00",
+    "receivingTeamId": 2,
+    "guestTeamId": 1
+  },
+  {
+    "id": 2,
+    "date": "070616",
+    "time": "15:00",
+    "receivingTeamId": 2,
+    "guestTeamId": 3
+  },
+  {
+    "id": 3,
+    "date": "070616",
+    "time": "19:00",
+    "receivingTeamId": 1,
+    "guestTeamId": 4
+  },
+  {
+    "id": 4,
+    "date": "060616",
+    "time": "11:00",
+    "receivingTeamId": 2,
+    "guestTeamId": 4
+  },
+  {
+    "id": 5,
+    "date": "060616",
+    "time": "15:00",
+    "receivingTeamId": 3,
+    "guestTeamId": 6
+  },
+  {
+    "id": 6,
+    "date": "060616",
+    "time": "19:00",
+    "receivingTeamId": 5,
+    "guestTeamId": 4
+  },
+  {
+    "id": 7,
+    "date": "050616",
+    "time": "11:00",
+    "receivingTeamId": 6,
+    "guestTeamId": 1
+  },
+  {
+    "id": 8,
+    "date": "050616",
+    "time": "15:00",
+    "receivingTeamId": 2,
+    "guestTeamId": 6
+  },
+  {
+    "id": 9,
+    "date": "050616",
+    "time": "19:00",
+    "receivingTeamId": 6,
+    "guestTeamId": 1
+  },
+  {
+    "id": 10,
+    "date": "040616",
+    "time": "11:00",
+    "receivingTeamId": 3,
+    "guestTeamId": 6
+  },
+  {
+    "id": 11,
+    "date": "040616",
+    "time": "15:00",
+    "receivingTeamId": 5,
+    "guestTeamId": 1
+  },
+  {
+    "id": 12,
+    "date": "040616",
+    "time": "19:00",
+    "receivingTeamId": 1,
+    "guestTeamId": 3
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "createdAt": "Fri Jun 03 2016 19:30:14 GMT+0300 (RTZ 2 (зима))",
+    "username": "Vladimir"
+  },
+  {
+    "id": 2,
+    "createdAt": "Fri Jun 02 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "username": "Alex"
+  },
+  {
+    "id": 3,
+    "createdAt": "Fri Jun 01 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "username": "Georgy"
+  },
+  {
+    "id": 4,
+    "createdAt": "Fri Jun 01 2016 19:00:14 GMT+0300 (RTZ 2 (зима))",
+    "username": "Maxim"
+  }
+]
